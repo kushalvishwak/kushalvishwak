@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kushal%20Kumar%20Vishwakarma&fontSize=50&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%207%2B%20Years%20Experience&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kushal%20Kumar%20Vishwakarma&fontSize=50&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%208%2B%20Years%20Experience&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=Building+Scalable+Data+Pipelines;Cloud+%7C+Big+Data+%7C+AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=Building+Scalable+Data+Pipelines;Cloud+%8C+Big+Data+%7C+AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
