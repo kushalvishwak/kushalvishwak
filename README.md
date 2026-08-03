@@ -15,7 +15,8 @@ I'm a **Cloud Data Engineer** with **8+ years of experience** designing and buil
 - 🔭 Currently working on **end-to-end data pipelines** and **AI-driven analytics**
 - 🌱 Exploring **AutoGen**, **RAG architectures**, and **multi-query document retrieval**
 - 💬 Ask me about **Databricks**, **SQL**, **Python**, **Cloud Architecture**, or **Data Engineering**
-- 🚀 Passionate about turning complex data into reliable, scalable solutions that create measurable value
+- � Feel free to reach out for data engineering or analytics collaborations
+- �🚀 Passionate about turning complex data into reliable, scalable solutions that create measurable value
 - ⚡ Fun fact: I love analyzing financial markets and building investment portfolios
 
 ---
