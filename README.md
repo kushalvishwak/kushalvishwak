@@ -1,23 +1,44 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kushal%20Kumar%20Vishwakarma&fontSize=50&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%208%2B%20Years%20Experience&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kushal%20Vishwakarma&fontSize=52&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%20AI%20%2B%20Data%20Systems&descAlignY=60&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=Building+Scalable+Data+Pipelines;Cloud+%8C+Big+Data+%7C+AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&width=700&lines=Building+systems+that+scale;Designing+data+platforms+for+real+impact;Turning+raw+data+into+decision-ready+insights;Exploring+AI%2C+RAG%2C+and+modern+analytics)](https://git.io/typing-svg)
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Architecture-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0EA5E9?style=for-the-badge" />
+</p>
+
 ---
 
-## 👋 About Me
+## ✨ About Me
 
-I'm a **Cloud Data Engineer** with **8+ years of experience** designing and building scalable data solutions. I specialize in cloud architectures, big data processing, and AI/ML integrations, with a strong focus on practical business impact. Currently based in **Bangalore, India** 🇮🇳.
+I design and build data systems that help businesses move faster, think clearer, and act smarter. With over 8 years of experience in cloud data engineering, I enjoy turning messy, disconnected data into dependable pipelines, scalable platforms, and AI-ready analytics environments.
 
-- 🔭 Currently working on **end-to-end data pipelines** and **AI-driven analytics**
-- 🌱 Exploring **AutoGen**, **RAG architectures**, and **multi-query document retrieval**
-- 💬 Ask me about **Databricks**, **SQL**, **Python**, **Cloud Architecture**, or **Data Engineering**
-- � Feel free to reach out for data engineering or analytics collaborations
-- �🚀 Passionate about turning complex data into reliable, scalable solutions that create measurable value
-- ⚡ Fun fact: I love analyzing financial markets and building investment portfolios
+- 🔭 Currently working on: cloud-native data platforms, end-to-end pipelines, and AI-assisted analytics
+- 🌱 Exploring: AutoGen, RAG architectures, semantic retrieval, and GenAI workflows
+- 💬 Ask me about: Databricks, Spark, Kafka, Python, SQL, cloud architecture, and scalable ETL
+- ⚡ Core philosophy: build systems with clarity, performance, and long-term maintainability
+- 📈 Personal interest: financial market analysis, portfolio thinking, and continuous learning
+
+---
+
+## 🧠 What I Do Best
+
+<div align="center">
+
+| Capability | Impact |
+|-----------|--------|
+| Data Architecture | Scalable and cloud-first foundations |
+| ETL & Pipelines | Reliable data movement from source to insight |
+| Big Data Engineering | Distributed processing with speed and resilience |
+| Analytics Enablement | BI-ready, decision-support systems |
+| AI/ML Data Readiness | Clean pipelines for intelligent workflows |
+
+</div>
 
 ---
 
@@ -39,6 +60,7 @@ I'm a **Cloud Data Engineer** with **8+ years of experience** designing and buil
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,16 +68,15 @@ I'm a **Cloud Data Engineer** with **8+ years of experience** designing and buil
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### Tools & Frameworks
+### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Pulse
 
 <div align="center">
 
@@ -76,7 +97,7 @@ I'm a **Cloud Data Engineer** with **8+ years of experience** designing and buil
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Recognition
 
 <div align="center">
 
@@ -86,49 +107,39 @@ I'm a **Cloud Data Engineer** with **8+ years of experience** designing and buil
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushalvishwak&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[intro_kv](https://github.com/kushalvishwak/intro_kv)** | Personal introduction & portfolio | Python |
-| **[car_damage](https://github.com/kushalvishwak/car_damage)** | AI-powered vehicle damage assessment | Python |
-| **[SQL-end-to-end-project-for-client-POC](https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC)** | Complete SQL solution for client POC | PL/SQL |
-| **[Use_AutoGenin-Databricks-with-DBRX](https://github.com/kushalvishwak/Use_AutoGenin-Databricks-with-DBRX)** | AutoGen integration with Databricks & DBRX | Jupyter Notebook |
-| **[Finance-investment](https://github.com/kushalvishwak/Finance-investment)** | Multi-stock portfolio analysis tool | Jupyter Notebook |
-| **[multi_query_document_rag](https://github.com/kushalvishwak/multi_query_document_rag-)** | Multi-query RAG document retrieval system | Python |
+| **[intro_kv](https://github.com/kushalvishwak/intro_kv)** | Personal portfolio and introduction | Python |
+| **[car_damage](https://github.com/kushalvishwak/car_damage)** | AI-powered vehicle damage detection | Python |
+| **[SQL-end-to-end-project-for-client-POC](https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC)** | End-to-end SQL solution for a client POC | PL/SQL |
+| **[Use_AutoGenin-Databricks-with-DBRX](https://github.com/kushalvishwak/Use_AutoGenin-Databricks-with-DBRX)** | AutoGen + Databricks + DBRX experimentation | Jupyter Notebook |
+| **[Finance-investment](https://github.com/kushalvishwak/Finance-investment)** | Portfolio analysis and market insight tooling | Jupyter Notebook |
+| **[multi_query_document_rag](https://github.com/kushalvishwak/multi_query_document_rag-)** | Multi-query document retrieval workflow | Python |
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-vishwakarma-7503358a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushalvishwak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-vishwakarma-7503358a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushalvishwak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
----
+> “I build data systems that make complexity feel simple, and insights feel actionable.”
 
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-**⭐ Star my repositories if you find them useful! ⭐**
+**⭐ If my work adds value, a star is always appreciated. ⭐**
 
 </div>
