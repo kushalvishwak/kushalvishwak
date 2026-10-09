@@ -24,6 +24,12 @@ I design and build data systems that help businesses move faster, think clearer,
 
 ---
 
+<div align="center">
+
+<img src="./assets/data-engineering-pipeline-mascot.gif" alt="Animated hooded pixel-art data creature with a signal cable tail above a data pipeline flowing from sources to lakehouse insights" width="900" />
+
+</div>
+
 ## 🧠 What I Do Best
 
 <div align="center">
@@ -35,14 +41,6 @@ I design and build data systems that help businesses move faster, think clearer,
 | Big Data Engineering | Distributed processing with speed and resilience |
 | Analytics Enablement | BI-ready, decision-support systems |
 | AI/ML Data Readiness | Clean pipelines for intelligent workflows |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/data-engineering-pipeline-mascot.gif" alt="Animated hooded pixel-art data creature with a signal cable tail above a data pipeline flowing from sources to lakehouse insights" width="900" />
 
 </div>
 
