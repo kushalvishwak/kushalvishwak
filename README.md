@@ -6,6 +6,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="./assets/data-engineering-pipeline.gif" alt="Animated pixel-art data engineer mascot above a flowing pipeline from sources through streaming and transformation to lakehouse insights" width="900" />
+
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Architecture-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-10B981?style=for-the-badge" />
