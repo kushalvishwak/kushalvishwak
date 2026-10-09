@@ -50,44 +50,44 @@ I design and build data systems that help businesses move faster, think clearer,
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>Cloud &amp; Data Platforms</strong><br />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" alt="Azure" />
-      <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Databricks" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud" />
+    <td width="50%" valign="top" style="padding: 12px;">
+      <strong>Cloud &amp; Data Platforms</strong><br /><br />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&amp;logo=microsoft-azure&amp;logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&amp;logo=databricks&amp;logoColor=white" alt="Databricks" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud" />
     </td>
-    <td width="50%" valign="top">
-      <strong>Languages</strong><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="PL/SQL" />
-      <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&amp;logo=scala&amp;logoColor=white" alt="Scala" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Big Data &amp; Processing</strong><br />
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&amp;logo=apache-spark&amp;logoColor=white" alt="Apache Spark" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&amp;logo=apache-kafka&amp;logoColor=white" alt="Apache Kafka" />
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&amp;logo=apache-hadoop&amp;logoColor=black" alt="Hadoop" />
-      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&amp;logo=apache-airflow&amp;logoColor=white" alt="Airflow" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>Databases</strong><br />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&amp;logo=snowflake&amp;logoColor=white" alt="Snowflake" />
+    <td width="50%" valign="top" style="padding: 12px;">
+      <strong>Languages</strong><br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="PL/SQL" />
+      <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&amp;logo=scala&amp;logoColor=white" alt="Scala" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <strong>Tools &amp; Platforms</strong><br />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
+    <td width="50%" valign="top" style="padding: 12px;">
+      <strong>Big Data &amp; Processing</strong><br /><br />
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&amp;logo=apache-spark&amp;logoColor=white" alt="Apache Spark" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&amp;logo=apache-kafka&amp;logoColor=white" alt="Apache Kafka" />
+      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&amp;logo=apache-hadoop&amp;logoColor=black" alt="Hadoop" />
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&amp;logo=apache-airflow&amp;logoColor=white" alt="Airflow" />
+    </td>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <strong>Databases</strong><br /><br />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&amp;logo=snowflake&amp;logoColor=white" alt="Snowflake" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" style="padding: 12px;">
+      <strong>Tools &amp; Platforms</strong><br /><br />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
     </td>
   </tr>
 </table>
@@ -120,23 +120,6 @@ I design and build data systems that help businesses move faster, think clearer,
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kushalvishwak&theme=tokyonight&no-frame=true&margin-w=15&row=1)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[intro_kv](https://github.com/kushalvishwak/intro_kv)** | Personal portfolio and introduction | Python |
-| **[car_damage](https://github.com/kushalvishwak/car_damage)** | AI-powered vehicle damage detection | Python |
-| **[SQL-end-to-end-project-for-client-POC](https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC)** | End-to-end SQL solution for a client POC | PL/SQL |
-| **[Use_AutoGenin-Databricks-with-DBRX](https://github.com/kushalvishwak/Use_AutoGenin-Databricks-with-DBRX)** | AutoGen + Databricks + DBRX experimentation | Jupyter Notebook |
-| **[Finance-investment](https://github.com/kushalvishwak/Finance-investment)** | Portfolio analysis and market insight tooling | Jupyter Notebook |
-| **[multi_query_document_rag](https://github.com/kushalvishwak/multi_query_document_rag-)** | Multi-query document retrieval workflow | Python |
 
 </div>
 
