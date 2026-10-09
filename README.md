@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kushal%20Vishwakarma&fontSize=52&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%20AI%20%2B%20Data%20Systems&descAlignY=60&descSize=18)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&width=700&lines=Building+systems+that+scale;Designing+data+platforms+for+real+impact;Turning+raw+data+into+decision-ready+insights;Exploring+AI%2C+RAG%2C+and+modern+analytics)](https://git.io/typing-svg)
+<img src="./assets/profile-header-animation.gif" alt="Animated profile header with a data engineer mascot, data star, and cycling name and engineering taglines" width="900" />
 
 </div>
 
